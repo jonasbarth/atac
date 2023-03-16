@@ -3,3 +3,5 @@ pandas
 numpy
 protobuf
 gtfs-realtime-bindings
+tinydb
+requests
